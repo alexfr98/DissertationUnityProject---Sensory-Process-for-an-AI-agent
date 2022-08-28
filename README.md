@@ -8,3 +8,7 @@ For setting up the project:
   4. Add this Assets folder to the project created.
   5. Run the project. Now you will be able to move your agent using 'w','a','s','d' and rotate it using 'i','l','k','j'.
 
+If you want to train the agent:
+  1. Download the PyCharm project placed in my profile.
+  2. While Unity Project is running and the agent is placed in position (0,0,0), execute the Python code.
+
